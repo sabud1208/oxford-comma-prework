@@ -1,4 +1,4 @@
-array= ["Kiwi", "durian", "starfruit".split]
+"Kiwi", "durian", "starfruit".split
 
 
 def oxford_comma(array)
