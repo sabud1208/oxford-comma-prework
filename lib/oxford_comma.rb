@@ -1,6 +1,6 @@
 
-array =["Kiwi, durian, and starfruit"].join
+array =["Kiwi, durian, and starfruit"].split
 
 def oxford_comma(array)
-array.split(" , ")
+array.join
 end
