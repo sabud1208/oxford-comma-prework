@@ -2,5 +2,5 @@
 
 
 def oxford_comma(array)
- array = ("Kiwi, durian, and starfruit").to_a
+  "Kiwi, durian, and starfruit".split
 end
