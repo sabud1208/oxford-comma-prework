@@ -1,6 +1,6 @@
 
 array = ["Kiwi, durian, starfruit"]
 
-def oxford_comma(array)
-array.join(" ")
+def oxford_comma(string)
+array.join(string)
 end
