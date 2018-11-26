@@ -1,5 +1,5 @@
 
-array = ["Kiwi", "durian", "starfruit"].to_s
+array = ["Kiwi", "durian", "starfruit"].split
 
 def oxford_comma(array)
 array.join
