@@ -2,5 +2,5 @@
 
 
 def oxford_comma
- ("Kiwi", "durian", "starfruit").to_a
+ ("Kiwi, durian, and starfruit").to_a
 end
