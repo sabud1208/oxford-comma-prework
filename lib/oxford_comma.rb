@@ -1,8 +1,9 @@
 
 array = ["Kiwi", "durianuiiu", "starfruit"]
-array.split
+
 
 def oxford_comma(array)
+array.split  
 array1= array.join(" , ")
 array1
 end
